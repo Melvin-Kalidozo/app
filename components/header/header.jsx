@@ -21,7 +21,7 @@ export default function Header() {
   return (
     <div className="border-b-2 p-3 relative z-50">
       <div className="w-[90%] mx-auto flex items-center justify-between">
-        {/* Logo */}
+        {/* Logkko */}
         <div className="flex items-center gap-4">
           <Image src="/logo.png" alt="Logo" width={30} height={30} />
           <p className="text-[1.5rem] font-extrabold">CASINO</p>
